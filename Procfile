@@ -1,1 +1,1 @@
-web: gunicorn site:write-2-code-python
+web: gunicorn write-2-code-python:app
