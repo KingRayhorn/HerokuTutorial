@@ -1,1 +1,1 @@
-web: gunicorn polls:app
+web: gunicorn mysite:app
