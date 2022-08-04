@@ -1,1 +1,1 @@
-web: gunicorn app_name.wsgi --log-file -
+web: gunicorn site:write-2-code-python
