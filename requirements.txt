@@ -2,7 +2,7 @@ asgiref==3.5.2
 astroid==2.3.3
 atomicwrites==1.4.0
 attrs==19.3.0
-backports.zoneinfo==0.2.1
+backports.zoneinfo==0.2.1;python_version<"3.9"
 certifi==2022.6.15
 colorama==0.4.3
 distlib==0.3.5
